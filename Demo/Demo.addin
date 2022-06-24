@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+	<AddIn Type="Application">
+		<Name>Ankobim</Name>
+		<FullClassName>Ankobim.Interface</FullClassName>
+		<Text>Ankobim</Text>
+		<Description>Ankobim Application</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>
+			"D:\API\Demo\Demo\bin\Debug\Demo.dll"
+		</Assembly>
+		<AddInId>BD97938D-E255-4659-87C7-F6867085668B</AddInId>
+		<VendorId>Ankobim</VendorId>
+		<VendorDescription>Ankobim</VendorDescription>
+	</AddIn>
+	
+</RevitAddIns>

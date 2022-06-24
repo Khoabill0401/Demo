@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ankobim_Demo", "Demo\Ankobim_Demo.csproj", "{AF08E0FB-1669-41B9-9C96-B2DA41976002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF08E0FB-1669-41B9-9C96-B2DA41976002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF08E0FB-1669-41B9-9C96-B2DA41976002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF08E0FB-1669-41B9-9C96-B2DA41976002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF08E0FB-1669-41B9-9C96-B2DA41976002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE02F158-FC21-4390-93A7-4D183C5D7E21}
+	EndGlobalSection
+EndGlobal
